@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+.second{
+    position:absolute;
+    top: 150px;
+    right:5px;
+  }
+  .btn-primary{
+    color: aliceblue;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border:none;
+    padding:18px 35px;
+  }
+  .third{
+    margin: 50px 150px;
+  }
+  .change{
+    float:left;
+  }
+  .fifth{
+    text-align: center;
+  }
+  .sixth,.seventh,.eighth,.ninth{
+    margin: 50px 240px;
+    margin-right: 10px;
+    float: left;
+  }
+  .ek{
+    margin:50px 240px;
+  }
+  .dui{
+    position:relative;
+    margin: 0 auto;
+  }
+  .last{
+    background-color: black;
+    position: absolute;
+    height:15vh;
+    width:100%;
+
+  }
+  .tin{
+    color:aliceblue;
+    margin: 50px 240px;
+    background-color: black;
+    float:left;
+  }
+  .car{
+    margin: 50px 240px;
+    color: aliceblue;
+  }
+  .sbr{
+    color: red;
+    background-color: white;
+  }
+  .pac{
+    background-color: black;
+    color:white;
+  }
