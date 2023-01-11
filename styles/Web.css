@@ -6,6 +6,41 @@
 .head {
   width: 1600px;
   height: 808px;
+  position: relative;
+  color: #151414;
+  align-items: right;
+}
+
+.ban-txt {
+  position: absolute;
+  width: 500px;
+  height: 107px;
+  left: 55vw;
+  top: 31vh;
+  text-align: right;
+}
+
+.thinks {
+  font-size: 30px;
+  margin-bottom: 24px;
+}
+
+.ban-txt1 {
+  position: relative;
+  width: 400px;
+  left: 95px;
+  margin-bottom: 32px;
+}
+
+.contact-us {
+  width: 160px;
+  height: 64px;
+  background: #F15B22;
+  border-style: none;
+  border-radius: 5px;
+  color: #FFFFFF;
+  font-weight:700;
+  font-size: 20px;
 }
 
 .person {
@@ -128,13 +163,13 @@
   height: 299.96px;
   margin-left: 270px;
   margin-top: 130px;
-  border-style: solid;
 }
 
-.grad3{
+.grad3 {
   width: 990px;
-  height:299.96px
+  height: 299.96px
 }
+
 .foot {
   width: 1600px;
   height: 577px;
@@ -170,9 +205,10 @@
   color: #F3F3F3;
 }
 
-.phone{
+.phone {
   margin-bottom: 32px;
 }
+
 .btn-primary {
   left: 1046px;
   width: 100px;
@@ -199,14 +235,15 @@
   color: #F3F3F3;
 }
 
-.email1{
+.email1 {
   margin-bottom: 16px;
 }
 
-.email2{
+.email2 {
   margin-bottom: 18px;
 }
 
-.fb,.twit{
+.fb,
+.twit {
   margin-right: 16px;
 }
