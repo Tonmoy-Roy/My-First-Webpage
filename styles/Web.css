@@ -11,9 +11,10 @@
   align-items: right;
 }
 
-.ban{
-  width:1519px;
+.ban {
+  width: 1519px;
 }
+
 .ban-txt {
   position: absolute;
   width: 500px;
@@ -42,13 +43,14 @@
   border-style: none;
   border-radius: 5px;
   color: #FFFFFF;
-  font-weight:700;
+  font-weight: 700;
   font-size: 20px;
 }
 
-.main{
-  width:1519px;
+.main {
+  width: 1519px;
 }
+
 .person {
   display: flex;
 }
@@ -169,11 +171,46 @@
   height: 299.96px;
   margin-left: 270px;
   margin-top: 130px;
+  position: relative;
+}
+
+.grad2 {
+  position: relative;
 }
 
 .grad3 {
+  position: absolute;
   width: 990px;
-  height: 299.96px
+  height: 299.96px;
+  bottom: 0vw;
+}
+
+.grad-txt {
+  position: absolute;
+  bottom: 5vw;
+  left: 80px;
+  width: 25vw;
+  margin-top: 59px;
+  /* padding:70px 64px; */
+}
+
+.call {
+  width: 160px;
+  height: 64px;
+  border-radius: 5px;
+  color: #F15B22;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  border-style: none;
+}
+
+.positive {
+  color: #F3F3F3;
+  margin-bottom: 24px;
 }
 
 .foot {
