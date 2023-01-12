@@ -4,13 +4,16 @@
 }
 
 .head {
-  width: 1600px;
+  width: 1519px;
   height: 808px;
   position: relative;
   color: #151414;
   align-items: right;
 }
 
+.ban{
+  width:1519px;
+}
 .ban-txt {
   position: absolute;
   width: 500px;
@@ -43,6 +46,9 @@
   font-size: 20px;
 }
 
+.main{
+  width:1519px;
+}
 .person {
   display: flex;
 }
@@ -171,7 +177,7 @@
 }
 
 .foot {
-  width: 1600px;
+  width: 1519px;
   height: 577px;
   background: #151414;
   margin-top: 130px;
